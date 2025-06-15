@@ -1,3 +1,4 @@
 Login feature coming soon...
 This is adding from git to test merge conflict
 This is adding from git again to test merge conflict
+Test
